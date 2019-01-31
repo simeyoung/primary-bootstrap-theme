@@ -1,6 +1,6 @@
 {
   "name": "@simeyoung/primary-bootstrap-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "bootstrap": "^4.2.1",
     "chart.js": "^2.7.3",
     "flatpickr": "^4.5.2",
-    "highlight.js": "^9.13.1",
+    "highlight.js": "^9.14.1",
     "jquery": "^3.3.1",
     "jquery-mask-plugin": "^1.14.15",
     "list.js": "^1.5.0",
