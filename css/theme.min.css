@@ -14559,8 +14559,8 @@ button:focus {
 			to bottom right,
 			rgba(18, 111, 235, 0.9),
 			rgba(114, 3, 225, 0.9)
-		),
-		url(../img/covers/sidebar-cover.jpg);
+		);
+		/* url(../img/covers/sidebar-cover.jpg); */
 	background-repeat: no-repeat, no-repeat;
 	background-position: 50%, 50%;
 	background-size: cover, cover;
@@ -14577,8 +14577,8 @@ button:focus {
 			180deg,
 			rgba(18, 38, 63, 0.85),
 			rgba(18, 38, 63, 0.85)
-		),
-		url(../img/covers/header-cover.jpg);
+		);
+		/* url(../img/covers/header-cover.jpg); */
 	background-repeat: no-repeat, no-repeat;
 	background-position: 50%, 50%;
 	background-size: cover, cover;
